@@ -1,4 +1,4 @@
-# Introdução ao MVC com PHP
+# MVC com PHP e estudo com BDD
 
 Repositório que contém o código utilizado para criação do curso de Introdução ao MVC com PHP.
 
